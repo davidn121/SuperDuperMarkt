@@ -1,0 +1,11 @@
+label,quality,initialPrice,expirationDate,foodType
+GoudaCsv,35,4.00,16.07.2024,Kaese
+FetaCsv,31,2.50,10.08.2024,Kaese
+BrieCsv,25,3.00,10.08.2024,Kaese
+CamembertCsv,35,5.00,03.09.2024,Kaese
+EmmentalerCsv,35,3.00,10.06.2024,Kaese
+RieslingCsv,22,6.00,,Wein
+MerlotCsv,49,6.50,,Wein
+ChampagneCsv,-3,4.00,,Wein
+MalbecCsv,55,5.00,,Wein
+RotlingCsv,15,3.00,11.05.2024,Wein
